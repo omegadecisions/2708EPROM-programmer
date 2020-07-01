@@ -6,7 +6,6 @@ Most modern electronic programmers do not support obsolete NMOS EPROM chips such
 
 There are several reasons:
 ...
-
 1) Three supply voltages
 2) High voltage programming
 ...
@@ -14,7 +13,6 @@ There are several reasons:
 However, these EPROM chips are actively used by retro computing enthusiasts - as they are present in many designs of retro computers
 
 ### Technical task
-
 ...
 Build the prototype of electronic programmer for Intel 2708 EPROM
 ...
@@ -29,7 +27,7 @@ Two publications served as the basis for prototyping:
 
 1) Article of author of replica russian 8-bit retro-computer [Specialist-Express](https://habr.com/ru/post/247211/)
 
-2) 2) Version of programmer for another russian 8-bit microcomputer "Radio micro-80" published in popular russian magazine "Radio":
+2) Version of programmer for another russian 8-bit microcomputer "Radio micro-80" published in popular russian magazine "Radio":
 
 Programmer for 2708 EPROM [Micro-80](http://archive.radio.ru/web/1983/06/049/)
 
