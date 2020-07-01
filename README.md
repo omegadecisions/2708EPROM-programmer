@@ -37,4 +37,4 @@ Programmer for 2708 EPROM [Micro-80](http://archive.radio.ru/web/1983/06/049/)
 
 
 As a result, a prototype was created, which was a compilation of these two devices.
-In addition to this, in software folder there is program code for Intel-8080 (it waz disassembled from dump of artiale 2)
+In addition to this, in software folder there is program code for Intel-8080 (it waz disassembled from dump of article 2)
