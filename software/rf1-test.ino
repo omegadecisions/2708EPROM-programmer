@@ -93,15 +93,14 @@ bool check_eprom() {
       res = false;
     }
     
-    if (col < 8) {
+    if (col < 16) {
       col = col + 1;
       Serial.print (" ");      
     } else {
       col = 0;
       Serial.print ("\n");      
     }
-    
-    
+
     address = address - 1;
 
   }
