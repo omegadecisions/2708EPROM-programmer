@@ -18,7 +18,6 @@ Build the prototype of electronic programmer for Intel 2708 EPROM
 ```
 
 A device capable of programming such a chip was needed in the process of working on a replica of a homemade 8-bit retrocomputer:
-
 A homemade 8-bit retrocomputer [Radio-88RK](http://archive.radio.ru/web/1986/05/035/)
 
 ### Process
@@ -28,7 +27,6 @@ Two publications served as the basis for prototyping:
 1) Article of author of replica russian 8-bit retro-computer [Specialist-Express](https://habr.com/ru/post/247211/)
 
 2) Version of programmer for another russian 8-bit microcomputer "Radio micro-80" published in popular russian magazine "Radio":
-
 Programmer for 2708 EPROM [Micro-80](http://archive.radio.ru/web/1983/06/049/)
 
 
