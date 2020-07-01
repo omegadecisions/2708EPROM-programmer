@@ -31,11 +31,11 @@ Two publications served as the basis for prototyping:
 
 Programmer for 2708 EPROM [Micro-80](http://archive.radio.ru/web/1983/06/049/)
 
-```
-Device No. 1 was intended for programming EPROM 2716 (which differed from 2708 in just one supply voltage and a different programming algorithm). The fragment of electonic circuit was not applicable for controlling of pulses Vpp 2708
 
-Device No. 2 contained the required Vpp voltage control driver solution for 2708.
-```
+>Device No. 1 was intended for programming EPROM 2716 (which differed from 2708 in just one supply voltage and a different programming algorithm). The fragment of electonic circuit was not applicable for controlling of pulses Vpp 2708
+>
+>Device No. 2 contained the required Vpp voltage control driver solution for 2708.
+
 
 
 As a result, a prototype was created, which was a compilation of these two devices.
